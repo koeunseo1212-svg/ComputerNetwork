@@ -2,7 +2,7 @@
 # Low Latency in Multiplayer Games
 ### Measuring, Analyzing, and Optimizing Network Latency in an Unreal Engine 5 Multiplayer Environment
 
-> **Course:** Computer Networks | **Team:** Group 9  
+> **Course:** Computer Networks | **Team:** Group 9 : 고은서, 김현서, 박은혁, 박재형
 > **Stack:** Unreal Engine 5 · tshark / Wireshark · Python (pyshark, pandas) · Blueprint
 
 ## 1. Motivation
